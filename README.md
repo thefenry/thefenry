@@ -20,6 +20,9 @@ Welcome to my GitHub profile! I'm passionate about coding and building innovativ
 
 ![Fenry's GitHub stats](https://github-readme-stats.vercel.app/api?username=thefenry&show_icons=true&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thefenry&layout=compact&theme=radical)
+
+
 ## How to Reach Me
 
 - GitHub: [@thefenry](https://github.com/thefenry)
